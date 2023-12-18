@@ -24,7 +24,7 @@
   
 ## :clipboard: O Projeto
 
-> **Status do Projeto: Em andamento**
+> **Status do Projeto: Concluído**
 - Estima-se que apenas 2% de todo óleo vegetal consumido é de fato reciclado no Brasil. Esse
 descarte regular é coletado por cooperativas ou profissionais individuais em restaurantes e depois
 repassado para usinas de produção de BioDiesel.
@@ -85,8 +85,7 @@ O desafio consiste em criar uma plataforma que gerencie os créditos a serem usa
 
 ## :calendar: Backlog do Produto
 
-> [Product.Backlog.do.Projeto_Greenneat_atomo.xlsx](https://github.com/atomofatec/API-GREENNEAT/files/13258616/Product.Backlog.do.Projeto_Greenneat_atomo.xlsx)
-
+> Baixe o Product Backlog da equipe clicando [aqui!](https://github.com/atomofatec/API-GREENNEAT/files/13258616/Product.Backlog.do.Projeto_Greenneat_atomo.xlsx)
 
 <br>
 
@@ -110,7 +109,7 @@ O desafio consiste em criar uma plataforma que gerencie os créditos a serem usa
   
 ## 📊 Business Process Model and Notation - BPMN
 
-[BPMN_Fluxogramas.zip](https://github.com/atomofatec/API-GREENNEAT/files/13258598/BPMN_Fluxogramas.zip)
+Baixe os fluxogramas clicando [aqui!](https://github.com/atomofatec/API-GREENNEAT/files/13258598/BPMN_Fluxogramas.zip)
 
 <br>
 
